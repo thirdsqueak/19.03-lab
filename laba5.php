@@ -12,7 +12,7 @@
         <label for="num2">Второе число:</label>
         <input type="number" id="num2" name="num2" required>
         <br>
-        <button type="submit">Умножить</button>
+        <button type="submit">познать мудрость</button>
     </form>
 
     <?php
